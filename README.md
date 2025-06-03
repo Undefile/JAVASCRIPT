@@ -1,2 +1,2 @@
 # JAVASCRIPT
-A code repo for javascript that I learned
+A code repo for javascript that I am learning
